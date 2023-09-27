@@ -1,0 +1,90 @@
+/* Reset de estilos para garantir uma base consistente */
+body, h1, h2, h3, p, ul, li {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #CCCCCC;
+    text-align: center;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px 0;
+}
+
+.titulo-principal {
+    font-size: 36px;
+    margin-bottom: 10px;
+    text-align: left; /* Alinhar à esquerda */
+    padding-left: 20px; /* Adicionar espaço à esquerda */
+}
+
+#banner {
+    width: 100%;
+    height: auto;
+    margin: 20px 0;
+}
+
+.titulo-centralizado {
+    font-size: 24px;
+    margin: 20px 0;
+    text-align: center; /* Centralizar texto */
+}
+
+.principal {
+    background-color: #b8b6b6;
+    padding: 20px;
+    text-align: center; /* Centralizar texto */
+}
+
+p {
+    font-size: 20px;
+}
+
+em strong {
+    color: #FF0000;
+    font-weight: bold; /* Adicionar negrito */
+}
+
+#missao {
+    font-size: 30px;
+}
+
+.itens {
+    font-style: italic;
+    font-size: 30px;
+}
+
+.beneficios {
+    background: #ccbaba;
+    padding: 20px;
+    text-align: center; /* Centralizar texto */
+}
+
+ul {
+    list-style: none; /* Remover marcadores de lista */
+    margin: 0;
+    padding: 0;
+}
+
+ul li {
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.imagembeneficios {
+    width: 50%;
+    display: block; /* Centralizar imagem horizontalmente */
+    margin: 0 auto;
+}
+
+/* Adicionar estilo específico para h2 */
+h2 {
+    font-size: 24px;
+    text-align: center;
+    margin: 20px 0;
+}
